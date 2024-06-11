@@ -1,0 +1,70 @@
+[
+    {
+        "Price": 4000,
+        "Icon": "store",
+        "Shops_Safe_Money": 1000,
+        "Shops_Items": {
+            "sandwich": {
+                "item_Label": "Sandwich",
+                "item_SellPrice": 500,
+                "item_Count": 50,
+                "item_Name": "sandwich"
+            }
+        },
+        "Identifier": "DAG13092",
+        "Number": 1,
+        "PedPos": {
+            "h": 253.439,
+            "y": 326.277,
+            "z": 103.566,
+            "x": 372.403
+        },
+        "Name": "MVSTORE",
+        "Shops_Stash": {
+            "sandwich": {
+                "item_Label": "Sandwich",
+                "item_Count": 55,
+                "item_Name": "sandwich"
+            },
+            "tosti": {
+                "item_Label": "Tost",
+                "item_Count": 63,
+                "item_Name": "tosti"
+            }
+        },
+        "Pos": {
+            "x": 373.875,
+            "y": 325.896,
+            "z": 102.566,
+            "number": 1
+        }
+    },
+    {
+        "Price": 4000,
+        "Shops_Stash": {
+            "water_bottle": {
+                "item_Label": "Bottle of Water",
+                "item_Count": 6,
+                "item_Name": "water_bottle"
+            }
+        },
+        "Shops_Safe_Money": 315,
+        "Shops_Items": [],
+        "Number": 2,
+        "PedPos": {
+            "h": 3.51666,
+            "y": 380.538,
+            "z": 108.623,
+            "x": 2557.43
+        },
+        "Pos": {
+            "x": 2557.458,
+            "y": 382.282,
+            "z": 107.622,
+            "number": 2
+        },
+        "Name": "CFX.re",
+        "Icon": "store",
+        "Identifier": "DAG13092"
+    }
+]
